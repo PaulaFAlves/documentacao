@@ -1,0 +1,15 @@
+site_name: Elysios
+
+pages:
+    - Documentação: index.md
+    - Atividades:
+        - Colheitas: Atividades/colheitas.md
+        - Manejos: Atividades/manejos.md
+    - Assistências Técnicas: assistencias-tecnicas.md
+    - Manejos: Atividades/manejos.md
+
+theme: readthedocs
+
+extra_css:
+    - css/extra_css.css
+
